@@ -1,0 +1,56 @@
+
+  header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .corps {
+    display: flex;
+    gap: 20px;
+  }
+
+  .gauche {
+    width: 30%;
+  }
+
+  .droite {
+    width: 70%;
+  }
+
+  h2 {
+    background-color: #222;
+    color: #fff;
+    padding: 6px 10px;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-top: 25px;
+    margin-bottom: 10px;
+  }
+
+  ul {
+    margin: 0;
+    padding-left: 18px;
+  }
+
+  li {
+    margin-bottom: 6px;
+  }
+
+  .contact p {
+    margin: 0 0 10px 0;
+  }
+
+  .date {
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 2px;
+  }
+
+  .school {
+    text-decoration: underline;
+    margin: 0 0 4px 0;
+  }
+
+  .detail {
+    margin: 0 0 4px 0;
+  }
