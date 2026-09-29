@@ -1,19 +1,19 @@
 
   header {
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
   }
 
-  .corps {
+  .content {
     display: flex;
     gap: 20px;
   }
 
-  .gauche {
+  .left {
     width: 30%;
   }
 
-  .droite {
+  .right {
     width: 70%;
   }
 
